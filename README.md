@@ -7,8 +7,11 @@ Created to accompany my [article](https://) on going from ST to VS Code.
 
 ### OSX key mappings:
 
+(Most frequently used)
+
 Key Mapping | Sublime Text 2 | VS Code
 ------------ | ------------ | -------------
+Go to File  | cmd + P | cmd + P
 Select next instance of the selected word  | cmd + D | cmd + D
 Create multiple cursors for multi-editing | cmd + click | alt + click 
 Duplicate current line | cmd + shift + D | alt + shift + up/down 
