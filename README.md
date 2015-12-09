@@ -2,7 +2,7 @@
 
 A list of my most frequently used key commands and the equavilent in VS Code
 
-Created to accompany my [article](https://) on going from ST to VS Code.
+Created to accompany my [article](https://medium.com/fed-or-dead/sublime-text-to-vs-code-87fccca84268#.dq9k3r55j) on going from ST to VS Code.
 
 
 ### OSX key mappings:
